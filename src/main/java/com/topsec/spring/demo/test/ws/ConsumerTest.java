@@ -15,6 +15,7 @@ import java.util.Properties;
  * @Author: G.J
  * @Date: 2019/12/10 16:23
  */
+
 public class ConsumerTest {
     private static final String KAFKA_TOPIC = "topsec";
     private static final String KAFKA_GROUP_ID = "test";
